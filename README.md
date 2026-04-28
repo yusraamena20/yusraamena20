@@ -20,6 +20,7 @@ I'm a **Biological Sciences (Genetics & Cell Biology)** undergraduate at Souther
 |---|---|---|
 | [Breast Cancer DGE Analysis](https://github.com/yusraamena20/Breast-Cancer-Genomics-DGE) | Differential gene expression of GSE15852 breast cancer dataset with PCA & heatmap | R, Bioconductor, DESeq2 |
 | [APOE Bioinformatics Analysis](https://github.com/yusraamena20/APOE-Bioinformatics-Analysis) | Multi-tool genomic analysis of the APOE gene using NCBI, BLAST, ClinVar & Cytoscape | BLAST, ClinVar, Cytoscape, HTML |
+| [Vignette_DESeq2](https://yusraamena20.github.io/Vignette_DESeq2/) | Interactive DESeq2 tutorial on dexamethasone effects in airway cells with Shiny app | R, DESeq2, Shiny, plotly |
 
 ## 📫 Connect
 
