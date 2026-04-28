@@ -26,4 +26,4 @@ I'm a **Biological Sciences (Genetics & Cell Biology)** undergraduate at Souther
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusra%20Amena-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusra-amena-a6a991248/)
 
 ---
-*Open to bioinformatics analyst, research associate, and genomics roles — graduating August 2026*
+*Open to bioinformatics analyst, research associate, and genomics roles - graduating August 2026*
