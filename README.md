@@ -1,12 +1,12 @@
 # Hi, I'm Yusra 👋
 
-I'm a **Biological Sciences (Genetics & Cell Biology)** undergraduate at Southern Illinois University Edwardsville, graduating August 2026. I work at the intersection of **wet-lab microbiology and computational biology** — from running phage-bacteria assays at the bench to building bioinformatics pipelines in R and Python.
+I'm a **Biological Sciences (Genetics & Cell Biology)** undergraduate at Southern Illinois University Edwardsville, graduating August 2026. I work at the intersection of **wet-lab microbiology and computational biology** - from running phage-bacteria assays at the bench to building bioinformatics pipelines in R and Python.
 
 ## 🔬 What I work on
 
-- **Phage therapy & host-pathogen interactions** — Currently a URCA Associate studying *Paraburkholderia bonniea* response to phage Bonzo8 with Rose Bengal photosensitizer
-- **Differential gene expression** — RNA-seq analysis using R/Bioconductor (DESeq2, PCA, heatmaps)
-- **Genomic analysis** — NCBI BLAST, ClinVar, FASTA, Cytoscape network visualization
+- **Phage therapy & host-pathogen interactions** - Currently a URCA Associate studying *Paraburkholderia bonniea* response to phage Bonzo8 with Rose Bengal photosensitizer
+- **Differential gene expression** - RNA-seq analysis using R/Bioconductor (DESeq2, PCA, heatmaps)
+- **Genomic analysis** - NCBI BLAST, ClinVar, FASTA, Cytoscape network visualization
 
 ## 🛠️ Tools & Skills
 
